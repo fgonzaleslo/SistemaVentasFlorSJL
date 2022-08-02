@@ -1,0 +1,9 @@
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\VFC\source\repos\back_socio\SistemaVentasFlor\CapaDatos\obj\Debug\CapaDatos.pdb
